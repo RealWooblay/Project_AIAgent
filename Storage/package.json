@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@web3-storage/w3cli": "^7.6.2"
+    "@web3-storage/w3up-client": "^13.1.1"
   }
 }
