@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@web3-storage/w3up-client": "^13.1.1"
+    "@web3-storage/w3up-client": "^13.1.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
   }
 }
